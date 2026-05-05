@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**Masssana/Masssana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Maxim, a backend developer based in Russia
 
-Here are some ideas to get you started:
+Im working on building backend systems, creating API, architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+right now im working on microservice based project banking system that accepts credit requests
+
+tools:
+  Java
+  Golang
+  SQL
+  Spring Boot
+  Docker
+  Postgresql
+  Kafka
+  Kubernetes
+
+you can contact me through my telegram or email!
+
+Telegram: @Gonchek
+
+Email: maxikus101@gmail.com
