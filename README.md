@@ -8,7 +8,7 @@ right now im working on microservice based project banking system that accepts c
 
 tools:
   Java
-  Golang
+  C
   SQL
   Spring Boot
   Docker
