@@ -9,12 +9,14 @@ right now im working on microservice based project banking system that accepts c
 tools:
   Java
   C
+  Python
   SQL
   Spring Boot
   Docker
   Postgresql
   Kafka
   Kubernetes
+  Temporal
 
 you can contact me through my telegram or email!
 
