@@ -4,8 +4,6 @@ Im Maxim, a backend developer based in Russia
 
 Im working on building backend systems, creating API, architecture
 
-right now im working on finTech project
-
 tools:
   Java
   C
